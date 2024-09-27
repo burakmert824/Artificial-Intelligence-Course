@@ -1,4 +1,4 @@
-Assignments about:
+Artificial-Intelligence-Course in Mälardalen University Assignments about:
 - Heuristic search
 - Knapsack problem
 - Constraint Satisfaction
